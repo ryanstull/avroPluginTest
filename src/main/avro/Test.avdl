@@ -1,0 +1,7 @@
+@namespace("org.example")
+
+protocol Test {
+	record Test {
+		long id;
+	}
+}
